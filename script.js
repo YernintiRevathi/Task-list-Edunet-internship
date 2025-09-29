@@ -8,7 +8,13 @@ taskInput.addEventListener("keyup", (e)=>{
         createTask();
     }
 });
-
+taskSection.addEventListener('click', function(event) {
+    // We check if the element that was actually clicked is a checkbox
+    if (event.target.matches('.checkbox')) {
+        // If it is, we call our updateTask function and pass in the checkbox element
+        updateTask(event.target);
+    }
+});
 //the onclick event for the add button
 document.querySelector("#push").onclick=function(){
     createTask();
