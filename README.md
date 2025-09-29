@@ -24,21 +24,7 @@ This is a feature-rich, front-end to-do list application built with vanilla HTML
 
 There are two easy ways to run this project locally.
 
-### Method 1: Using VS Code Live Server (Recommended)
-
-1.  Make sure you have the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension installed in VS Code.
-2.  Open the project folder in VS Code.
-3.  Right-click on the `index.html` file.
-4.  Select **"Open with Live Server"**.
-5.  Your default browser will open with the application running. The page will automatically reload whenever you save a file.
-
-### Method 2: Opening the HTML File Directly
-
-Since this project uses no backend or complex modules, you can also just open the `index.html` file directly in your web browser. However, using a local server is better practice for web development.
-
----
-
-##  swinging_cat: How to Set Up and Run with CodeSwing in VS Code
+### How to Set Up and Run with CodeSwing in VS Code (preview inside vs code)
 
 **CodeSwing** is a fantastic VS Code extension that creates an interactive "playground" for your front-end code, similar to CodePen or JSFiddle, but right inside your editor. It's perfect for this project.
 
