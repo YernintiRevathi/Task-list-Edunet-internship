@@ -37,13 +37,12 @@ function createTask(){
         task.innerHTML = `
             <div class="drag-handle"></div>
             <label>
-                <input onclick="updateTask(this)" type="checkbox" class="checkbox">
+                <input type="checkbox" class="checkbox">
                 <p>${document.querySelector("#newtask input").value}</p>
             </label>
             <button class="delete">
                 <i class="uil uil-trash"></i>
             </button>
-        </div>
         `;
         // 5. prepend (add at the beginning) the new task to the task section
         taskSection.prepend(task);
