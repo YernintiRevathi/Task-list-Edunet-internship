@@ -58,7 +58,7 @@ Since this project uses no backend or complex modules, you can also just open th
 
     
 
-3.  A file picker will appear. Navigate to your project folder and select your template.**`index.html`**, **`style.css`**, and **`script.js`** files. You can multi-select using `Ctrl` (or `Cmd` on Mac) while clicking.
+3.  A file picker will appear. Select your project folder and select your template.
 4.  Click **"Open"**.
 5.  To change the layout (
 ### Step 3: Enjoy the Live Preview!
