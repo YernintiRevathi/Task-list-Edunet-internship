@@ -46,7 +46,7 @@ There are two easy ways to run this project locally.
 
 3.  A file picker will appear. Select your project folder and select your template.
 4.  Click **"Open"**.
-5.  To change the layout (
+5.  To change the layout ,click on change layout in top-menu and selct the layout.
 ### Step 3: Enjoy the Live Preview!
 
 CodeSwing will open a new editor view with your code in separate columns and a live preview pane on the right. Any changes you make to your HTML, CSS, or JavaScript will be reflected instantly in the preview, creating a fast and efficient development workflow.
